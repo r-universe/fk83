@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "scoringRules"]
+	path = scoringRules
+	url = https://github.com/fk83/scoringrules
+	shallow = true
+	registered = true
